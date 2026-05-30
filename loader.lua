@@ -8,7 +8,8 @@ local GAMES = {
     [9186719164]  = "sailorpiece.lua",
     [6718454990]  = "animeghost.lua",
     [10032271327] = "worldfighters.lua",
-    [9792947201] = "slimerng.lua"
+    [9792947201] = "slimerng.lua",
+    [7395930870] = "selllemons.lua",
 }
 
 local gameId = game.GameId
